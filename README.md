@@ -6,3 +6,5 @@ To run any task:
   - run 'npm install' to install node_modules dependencies
   - run 'npm run dev' to start the server
   - go to localhost:8090
+
+It was developed on Chrome 73. Other browsers support is not verified.
